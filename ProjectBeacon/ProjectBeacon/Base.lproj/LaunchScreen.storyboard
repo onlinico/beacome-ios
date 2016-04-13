@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="splashscreen_background" translatesAutoresizingMaskIntoConstraints="NO" id="ggB-LO-IQr">
+                                <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                            </imageView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="ggB-LO-IQr" secondAttribute="trailing" id="4h6-Ol-CmO"/>
+                            <constraint firstItem="ggB-LO-IQr" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="9uB-aY-AcJ"/>
+                            <constraint firstItem="ggB-LO-IQr" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="G30-XB-ITO"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="ggB-LO-IQr" secondAttribute="bottom" id="aM7-jz-YHR"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="subviews">
+                                <exclude reference="ggB-LO-IQr"/>
+                            </mask>
+                            <mask key="constraints">
+                                <exclude reference="4h6-Ol-CmO"/>
+                                <exclude reference="9uB-aY-AcJ"/>
+                                <exclude reference="G30-XB-ITO"/>
+                                <exclude reference="aM7-jz-YHR"/>
+                            </mask>
+                        </variation>
+                        <variation key="heightClass=regular-widthClass=compact">
+                            <mask key="subviews">
+                                <include reference="ggB-LO-IQr"/>
+                            </mask>
+                            <mask key="constraints">
+                                <include reference="4h6-Ol-CmO"/>
+                                <include reference="9uB-aY-AcJ"/>
+                                <include reference="G30-XB-ITO"/>
+                                <include reference="aM7-jz-YHR"/>
+                            </mask>
+                        </variation>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.5" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="splashscreen_background" width="375" height="667"/>
+    </resources>
+</document>

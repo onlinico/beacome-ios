@@ -1,0 +1,12 @@
+target "ProjectBeacon" do
+  pod 'FMDB', '~>2.5'
+  pod 'RestKit', '~>0.26.0'
+  pod 'FBSDKCoreKit', '~>4.8.0'
+  pod 'FBSDKLoginKit', '~>4.8.0'
+  pod 'TwitterKit', '~>1.14.6'
+  pod 'Google/SignIn'
+  pod 'MGSwipeTableCell', '~>1.5.3'
+  pod 'NSDate+TimeAgo', '~>1.0.3'
+  pod 'TTTAttributedLabel', '~>1.13.4'
+  pod 'CocoaLumberjack', '~> 2.2'
+end

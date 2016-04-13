@@ -1,0 +1,492 @@
+
+/* Class = "UITextField"; placeholder = "Enter UUID"; ObjectID = "0CM-AQ-sih"; */
+"0CM-AQ-sih.placeholder" = "Enter UUID";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "0md-42-2s0"; */
+"0md-42-2s0.title" = " ";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "0x1-1h-wfm"; */
+"0x1-1h-wfm.title" = " ";
+
+/* Class = "UILabel"; text = "Linked cards"; ObjectID = "1W6-PX-xk3"; */
+"1W6-PX-xk3.text" = "Linked cards";
+
+/* Class = "UIButton"; normalTitle = "Choose Image"; ObjectID = "1gR-fb-V3f"; */
+"1gR-fb-V3f.normalTitle" = "Choose Image";
+
+/* Class = "UILabel"; text = "Translator"; ObjectID = "1hO-uj-oPF"; */
+"1hO-uj-oPF.text" = "Translator";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "1jc-2Q-lDV"; */
+"1jc-2Q-lDV.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "20J-GK-HB3"; */
+"20J-GK-HB3.title" = "History";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "27u-FW-qgU"; */
+"27u-FW-qgU.text" = "Email";
+
+/* Class = "UILabel"; text = "Mobile:"; ObjectID = "2Of-ME-RE5"; */
+"2Of-ME-RE5.text" = "Mobile:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2UY-bL-rMC"; */
+"2UY-bL-rMC.text" = "Label";
+
+/* Class = "UILabel"; text = "Translator"; ObjectID = "2e0-Xr-94t"; */
+"2e0-Xr-94t.text" = "Translator";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "2r5-Ui-0W1"; */
+"2r5-Ui-0W1.title" = "Add";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "3M0-tX-YwW"; */
+"3M0-tX-YwW.text" = "Title";
+
+/* Class = "UILabel"; text = "13jh547d-24hf-j48f-dhf7-184hfys9ur72"; ObjectID = "3p3-hF-cHh"; */
+"3p3-hF-cHh.text" = "13jh547d-24hf-j48f-dhf7-184hfys9ur72";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3qH-d1-zJ0"; */
+"3qH-d1-zJ0.text" = "Label";
+
+/* Class = "UILabel"; text = " "; ObjectID = "4RN-fy-Dfc"; */
+"4RN-fy-Dfc.text" = " ";
+
+/* Class = "UILabel"; text = "Role"; ObjectID = "4h1-MS-wG6"; */
+"4h1-MS-wG6.text" = "Role";
+
+/* Class = "UIViewController"; title = "PageContentViewController"; ObjectID = "5Hw-VS-hWe"; */
+"5Hw-VS-hWe.title" = "PageContentViewController";
+
+/* Class = "UILabel"; text = "13jh547d-24hf-j48f-dhf7-184hfys9ur72"; ObjectID = "6B2-i9-bHv"; */
+"6B2-i9-bHv.text" = "13jh547d-24hf-j48f-dhf7-184hfys9ur72";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "7Lk-pR-dJF"; */
+"7Lk-pR-dJF.text" = "Label";
+
+/* Class = "UILabel"; text = "13jh547d-24hf-j48f-dhf7-184hfys9ur72"; ObjectID = "8p2-uR-OpH"; */
+"8p2-uR-OpH.text" = "13jh547d-24hf-j48f-dhf7-184hfys9ur72";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "9L6-T1-Ysk"; */
+"9L6-T1-Ysk.text" = "Phone";
+
+/* Class = "UILabel"; text = "Google"; ObjectID = "9eM-Cq-t9L"; */
+"9eM-Cq-t9L.text" = "Google";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "AYh-kg-Hz8"; */
+"AYh-kg-Hz8.text" = "2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Aff-Ws-EWo"; */
+"Aff-Ws-EWo.text" = "Label";
+
+/* Class = "UILabel"; text = "13jh547d-24hf-j48f-dhf7-184hfys9ur72"; ObjectID = "AkJ-jQ-uC5"; */
+"AkJ-jQ-uC5.text" = "13jh547d-24hf-j48f-dhf7-184hfys9ur72";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Amk-LY-ZsW"; */
+"Amk-LY-ZsW.text" = "Label";
+
+/* Class = "UILabel"; text = "History"; ObjectID = "B1a-lN-dba"; */
+"B1a-lN-dba.text" = "History";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "BNu-qe-pLX"; */
+"BNu-qe-pLX.text" = "Favorites";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BZa-LW-WA6"; */
+"BZa-LW-WA6.text" = "Label";
+
+/* Class = "UIViewController"; title = "CardDetail"; ObjectID = "Be9-R9-ib0"; */
+"Be9-R9-ib0.title" = "CardDetail";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "C3K-SV-Lul"; */
+"C3K-SV-Lul.title" = " ";
+
+/* Class = "UILabel"; text = "Guigui"; ObjectID = "CK7-dr-ozA"; */
+"CK7-dr-ozA.text" = "Guigui";
+
+/* Class = "UILabel"; text = "Linked cards"; ObjectID = "Cte-59-wbg"; */
+"Cte-59-wbg.text" = "Linked cards";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DAS-NO-VVn"; */
+"DAS-NO-VVn.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Link Beacon"; ObjectID = "DOW-cg-Cb4"; */
+"DOW-cg-Cb4.title" = "Link Beacon";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "DRb-YI-fu3"; */
+"DRb-YI-fu3.text" = "2";
+
+/* Class = "UINavigationItem"; title = "Account"; ObjectID = "DeA-Ts-NEs"; */
+"DeA-Ts-NEs.title" = "Account";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "Dgj-UE-pCC"; */
+"Dgj-UE-pCC.text" = "Email";
+
+/* Class = "UILabel"; text = "Translator"; ObjectID = "DwS-eV-db7"; */
+"DwS-eV-db7.text" = "Translator";
+
+/* Class = "UILabel"; text = "Role"; ObjectID = "E3Q-Zq-HK3"; */
+"E3Q-Zq-HK3.text" = "Role";
+
+/* Class = "UITextField"; placeholder = "Enter"; ObjectID = "EM8-fG-5R5"; */
+"EM8-fG-5R5.placeholder" = "Enter";
+
+/* Class = "UILabel"; text = "My Account"; ObjectID = "Fhf-cr-CHf"; */
+"Fhf-cr-CHf.text" = "My Account";
+
+/* Class = "UIButton"; normalTitle = "Sign In via Google+"; ObjectID = "Fyh-Mq-QWJ"; */
+"Fyh-Mq-QWJ.normalTitle" = "Sign In via Google+";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "G1Z-C0-Jzc"; */
+"G1Z-C0-Jzc.text" = "Label";
+
+/* Class = "UILabel"; text = "Device as Beacon"; ObjectID = "G9e-EF-rXl"; */
+"G9e-EF-rXl.text" = "Device as Beacon";
+
+/* Class = "UIViewController"; title = "Scanning"; ObjectID = "GUb-Sg-kdq"; */
+"GUb-Sg-kdq.title" = "Scanning";
+
+/* Class = "UILabel"; text = "Scanning"; ObjectID = "GVy-RO-nik"; */
+"GVy-RO-nik.text" = "Scanning";
+
+/* Class = "UIButton"; normalTitle = "Sign In via Twitter"; ObjectID = "Gy4-PY-oO9"; */
+"Gy4-PY-oO9.normalTitle" = "Sign In via Twitter";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HCo-gE-KlA"; */
+"HCo-gE-KlA.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "HmA-dG-ZF7"; */
+"HmA-dG-ZF7.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "I3K-Xv-j1A"; */
+"I3K-Xv-j1A.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IvS-Rx-uCw"; */
+"IvS-Rx-uCw.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Ivy-2y-YJs"; */
+"Ivy-2y-YJs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Sign In via Facebook"; ObjectID = "J8l-lK-0dE"; */
+"J8l-lK-0dE.normalTitle" = "Sign In via Facebook";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "JYe-SW-1a6"; */
+"JYe-SW-1a6.title" = "Add";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "Jzi-FT-an5"; */
+"Jzi-FT-an5.title" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "K0Y-vz-hu4"; */
+"K0Y-vz-hu4.text" = "Label";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "KZ1-cq-sNn"; */
+"KZ1-cq-sNn.text" = "2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KZP-ml-Q7i"; */
+"KZP-ml-Q7i.text" = "Label";
+
+/* Class = "UILabel"; text = "My Cards"; ObjectID = "KcL-Rb-6oz"; */
+"KcL-Rb-6oz.text" = "My Cards";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "Kxm-rL-fAK"; */
+"Kxm-rL-fAK.normalTitle" = "Send";
+
+/* Class = "UITabBarItem"; title = "My Cards"; ObjectID = "L4b-Yx-2P2"; */
+"L4b-Yx-2P2.title" = "My Cards";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LiS-9x-83R"; */
+"LiS-9x-83R.text" = "Label";
+
+/* Class = "UILabel"; text = "Twitter"; ObjectID = "LsL-vZ-VSH"; */
+"LsL-vZ-VSH.text" = "Twitter";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "MPT-3g-6Fq"; */
+"MPT-3g-6Fq.title" = " ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "NAQ-RS-jSC"; */
+"NAQ-RS-jSC.text" = "Label";
+
+/* Class = "UIViewController"; title = "NewCard"; ObjectID = "NYO-gq-MfB"; */
+"NYO-gq-MfB.title" = "NewCard";
+
+/* Class = "UILabel"; text = "Linked cards"; ObjectID = "OeI-4X-UlP"; */
+"OeI-4X-UlP.text" = "Linked cards";
+
+/* Class = "UIButton"; normalTitle = "SIGN OUT"; ObjectID = "OyS-lU-I2E"; */
+"OyS-lU-I2E.normalTitle" = "SIGN OUT";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PBW-Je-rm2"; */
+"PBW-Je-rm2.text" = "Label";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "PMD-cn-6H3"; */
+"PMD-cn-6H3.text" = "2";
+
+/* Class = "UIViewController"; title = "MyCardDetail"; ObjectID = "QRV-RX-WW7"; */
+"QRV-RX-WW7.title" = "MyCardDetail";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RXf-0j-i0r"; */
+"RXf-0j-i0r.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RYz-rL-O4T"; */
+"RYz-rL-O4T.text" = "Label";
+
+/* Class = "UIViewController"; title = "MyCards"; ObjectID = "SC6-BL-LQ3"; */
+"SC6-BL-LQ3.title" = "MyCards";
+
+/* Class = "UINavigationItem"; title = "Map"; ObjectID = "Swf-Uv-Wym"; */
+"Swf-Uv-Wym.title" = "Map";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "T8Y-R8-EIM"; */
+"T8Y-R8-EIM.placeholder" = "Email";
+
+/* Class = "UIViewController"; title = "History"; ObjectID = "TFy-37-OIm"; */
+"TFy-37-OIm.title" = "History";
+
+/* Class = "UIViewController"; title = "LinkBeacon"; ObjectID = "TOx-zv-cxq"; */
+"TOx-zv-cxq.title" = "LinkBeacon";
+
+/* Class = "UIViewController"; title = "BeaconDetail"; ObjectID = "TPK-dI-e3L"; */
+"TPK-dI-e3L.title" = "BeaconDetail";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "TZi-rV-QXF"; */
+"TZi-rV-QXF.text" = "2";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U8E-xp-C8F"; */
+"U8E-xp-C8F.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "UcF-UW-e1y"; */
+"UcF-UW-e1y.title" = " ";
+
+/* Class = "UILabel"; text = "Share to"; ObjectID = "VSH-Ac-Pyp"; */
+"VSH-Ac-Pyp.text" = "Share to";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VyW-zR-hCs"; */
+"VyW-zR-hCs.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "SKIP (ANONYMOUS)"; ObjectID = "WgM-7x-bE1"; */
+"WgM-7x-bE1.normalTitle" = "SKIP (ANONYMOUS)";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "Wwl-MI-Qfh"; */
+"Wwl-MI-Qfh.title" = "More";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "XjX-Bu-nof"; */
+"XjX-Bu-nof.title" = "Title";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "Xq4-vI-BVP"; */
+"Xq4-vI-BVP.title" = "Favorites";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YOq-qY-sC6"; */
+"YOq-qY-sC6.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "YUv-Ur-yeL"; */
+"YUv-Ur-yeL.title" = "Cancel";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "YgC-27-0kK"; */
+"YgC-27-0kK.text" = "Email";
+
+/* Class = "UITabBarItem"; title = "More"; ObjectID = "a7i-jU-2r2"; */
+"a7i-jU-2r2.title" = "More";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "al6-1y-huh"; */
+"al6-1y-huh.text" = "2";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "aqJ-Zk-jV4"; */
+"aqJ-Zk-jV4.title" = " ";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "b7q-vK-Gqo"; */
+"b7q-vK-Gqo.text" = "Phone";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "cJu-wc-ruP"; */
+"cJu-wc-ruP.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cxr-TE-1DY"; */
+"cxr-TE-1DY.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dFV-Z7-owl"; */
+"dFV-Z7-owl.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Link"; ObjectID = "dPg-JV-up9"; */
+"dPg-JV-up9.title" = "Link";
+
+/* Class = "UILabel"; text = "Beacon(s)"; ObjectID = "dh3-ow-epM"; */
+"dh3-ow-epM.text" = "Beacon(s)";
+
+/* Class = "UITabBarItem"; title = "My Cards"; ObjectID = "dzP-Qw-Rhh"; */
+"dzP-Qw-Rhh.title" = "My Cards";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "e3b-hk-1uz"; */
+"e3b-hk-1uz.title" = " ";
+
+/* Class = "UILabel"; text = "5 m"; ObjectID = "eA5-zh-45I"; */
+"eA5-zh-45I.text" = "5 m";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "eby-m6-SBV"; */
+"eby-m6-SBV.text" = "Email";
+
+/* Class = "UINavigationItem"; title = "Adding Contact"; ObjectID = "evG-uy-Dk8"; */
+"evG-uy-Dk8.title" = "Adding Contact";
+
+/* Class = "UITabBarItem"; title = "Scanning"; ObjectID = "fFY-9B-1qF"; */
+"fFY-9B-1qF.title" = "Scanning";
+
+/* Class = "UILabel"; text = "My Role"; ObjectID = "fRU-t3-u6V"; */
+"fRU-t3-u6V.text" = "My Role";
+
+/* Class = "UILabel"; text = "2"; ObjectID = "fSM-FD-aFI"; */
+"fSM-FD-aFI.text" = "2";
+
+/* Class = "UILabel"; text = "My Beacons"; ObjectID = "grd-ft-kXW"; */
+"grd-ft-kXW.text" = "My Beacons";
+
+/* Class = "UIViewController"; title = "Favorites"; ObjectID = "h1i-nc-af0"; */
+"h1i-nc-af0.title" = "Favorites";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "hcb-nw-mh3"; */
+"hcb-nw-mh3.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = " "; ObjectID = "heq-Ys-Lsj"; */
+"heq-Ys-Lsj.title" = " ";
+
+/* Class = "UIViewController"; title = "NewBeacon"; ObjectID = "i2k-T8-Uyg"; */
+"i2k-T8-Uyg.title" = "NewBeacon";
+
+/* Class = "UISegmentedControl"; i7v-Aj-A8W.segmentTitles[0] = "Enter UUID"; ObjectID = "i7v-Aj-A8W"; */
+"i7v-Aj-A8W.segmentTitles[0]" = "Enter UUID";
+
+/* Class = "UISegmentedControl"; i7v-Aj-A8W.segmentTitles[1] = "Scan Beacon"; ObjectID = "i7v-Aj-A8W"; */
+"i7v-Aj-A8W.segmentTitles[1]" = "Scan Beacon";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "iYl-Qt-pmh"; */
+"iYl-Qt-pmh.text" = "Label";
+
+/* Class = "UILabel"; text = "5 m"; ObjectID = "jH3-j5-Oa3"; */
+"jH3-j5-Oa3.text" = "5 m";
+
+/* Class = "UIButton"; normalTitle = "Mobile Phone   "; ObjectID = "jmA-o1-cHt"; */
+"jmA-o1-cHt.normalTitle" = "Mobile Phone   ";
+
+/* Class = "UINavigationItem"; title = "My Beacons"; ObjectID = "kID-ya-tyT"; */
+"kID-ya-tyT.title" = "My Beacons";
+
+/* Class = "UIViewController"; title = "More"; ObjectID = "kV1-AI-iTB"; */
+"kV1-AI-iTB.title" = "More";
+
+/* Class = "UILabel"; text = "Linked cards"; ObjectID = "kpZ-f9-lC0"; */
+"kpZ-f9-lC0.text" = "Linked cards";
+
+/* Class = "UILabel"; text = "Beacon(s)"; ObjectID = "kzl-cb-K4Z"; */
+"kzl-cb-K4Z.text" = "Beacon(s)";
+
+/* Class = "UILabel"; text = "Detailg"; ObjectID = "l5v-Xb-NCa"; */
+"l5v-Xb-NCa.text" = "Detailg";
+
+/* Class = "UILabel"; text = "Phone"; ObjectID = "lLR-x7-xDC"; */
+"lLR-x7-xDC.text" = "Phone";
+
+/* Class = "UITableViewController"; title = "MoreTable"; ObjectID = "lhM-wh-Vnb"; */
+"lhM-wh-Vnb.title" = "MoreTable";
+
+/* Class = "UITabBarItem"; title = "History"; ObjectID = "lkh-Lf-OZF"; */
+"lkh-Lf-OZF.title" = "History";
+
+/* Class = "UILabel"; text = "Mobile phone:"; ObjectID = "mD6-DZ-zsI"; */
+"mD6-DZ-zsI.text" = "Mobile phone:";
+
+/* Class = "UILabel"; text = "Detail"; ObjectID = "mEh-qk-oPW"; */
+"mEh-qk-oPW.text" = "Detail";
+
+/* Class = "UINavigationItem"; title = "Link Cards"; ObjectID = "mFV-Vk-ch4"; */
+"mFV-Vk-ch4.title" = "Link Cards";
+
+/* Class = "UIViewController"; title = "MyAccount"; ObjectID = "mgg-5q-chg"; */
+"mgg-5q-chg.title" = "MyAccount";
+
+/* Class = "UIViewController"; title = "AddContact"; ObjectID = "msL-ni-83I"; */
+"msL-ni-83I.title" = "AddContact";
+
+/* Class = "UILabel"; text = "Owner (can edit)"; ObjectID = "o1D-KX-aKY"; */
+"o1D-KX-aKY.text" = "Owner (can edit)";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "oJz-c8-uVZ"; */
+"oJz-c8-uVZ.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "p4o-ck-OpF"; */
+"p4o-ck-OpF.text" = "Title";
+
+/* Class = "UIViewController"; title = "ShareCard"; ObjectID = "q1l-GY-Mpb"; */
+"q1l-GY-Mpb.title" = "ShareCard";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qGL-ja-EUN"; */
+"qGL-ja-EUN.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qzZ-sD-xsY"; */
+"qzZ-sD-xsY.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Scanning"; ObjectID = "rm6-Ha-dUg"; */
+"rm6-Ha-dUg.title" = "Scanning";
+
+/* Class = "UIButton"; normalTitle = "Change Image"; ObjectID = "rmc-5o-arc"; */
+"rmc-5o-arc.normalTitle" = "Change Image";
+
+/* Class = "UILabel"; text = "Beacon(s)"; ObjectID = "rvG-Yn-Qk8"; */
+"rvG-Yn-Qk8.text" = "Beacon(s)";
+
+/* Class = "UIViewController"; title = "LinkCards"; ObjectID = "s6r-JG-BFD"; */
+"s6r-JG-BFD.title" = "LinkCards";
+
+/* Class = "UINavigationItem"; title = "Scanning"; ObjectID = "sR1-iz-mLW"; */
+"sR1-iz-mLW.title" = "Scanning";
+
+/* Class = "UIViewController"; title = "MyBeacons"; ObjectID = "su9-AB-hB8"; */
+"su9-AB-hB8.title" = "MyBeacons";
+
+/* Class = "UIButton"; normalTitle = "Choose Image"; ObjectID = "tWc-m7-bLK"; */
+"tWc-m7-bLK.normalTitle" = "Choose Image";
+
+/* Class = "UINavigationItem"; title = "Beacon"; ObjectID = "u7k-Cp-zg9"; */
+"u7k-Cp-zg9.title" = "Beacon";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "uEU-d3-8gX"; */
+"uEU-d3-8gX.text" = "Label";
+
+/* Class = "UILabel"; text = "My Role"; ObjectID = "v0k-ju-8Ai"; */
+"v0k-ju-8Ai.text" = "My Role";
+
+/* Class = "UILabel"; text = "Facebook"; ObjectID = "vAe-Z7-uvq"; */
+"vAe-Z7-uvq.text" = "Facebook";
+
+/* Class = "UINavigationItem"; title = "Add Beacon"; ObjectID = "vKn-Ef-U7e"; */
+"vKn-Ef-U7e.title" = "Add Beacon";
+
+/* Class = "UINavigationItem"; title = "My Cards"; ObjectID = "vcV-lE-MmU"; */
+"vcV-lE-MmU.title" = "My Cards";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "w0c-99-PG4"; */
+"w0c-99-PG4.text" = "Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "w7H-63-hLd"; */
+"w7H-63-hLd.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "SIGN IN"; ObjectID = "xQZ-GG-cQe"; */
+"xQZ-GG-cQe.normalTitle" = "SIGN IN";
+
+/* Class = "UITabBarItem"; title = "Favorites"; ObjectID = "xT6-jg-322"; */
+"xT6-jg-322.title" = "Favorites";
+
+/* Class = "UILabel"; text = "5 m"; ObjectID = "xVo-gh-ozr"; */
+"xVo-gh-ozr.text" = "5 m";
+
+/* Class = "UILabel"; text = "My Role"; ObjectID = "z7p-XW-SFB"; */
+"z7p-XW-SFB.text" = "My Role";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zLs-cH-fVi"; */
+"zLs-cH-fVi.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Link"; ObjectID = "zQL-bS-k1w"; */
+"zQL-bS-k1w.title" = "Link";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zcg-hr-XDH"; */
+"zcg-hr-XDH.text" = "Label";
+
+/* Class = "UILabel"; text = "Detailg"; ObjectID = "zfU-If-9aI"; */
+"zfU-If-9aI.text" = "Detailg";
+
+/* Class = "UILabel"; text = "13jh547d-24hf-j48f-dhf7-184hfys9ur72"; ObjectID = "zuy-8z-LKi"; */
+"zuy-8z-LKi.text" = "13jh547d-24hf-j48f-dhf7-184hfys9ur72";

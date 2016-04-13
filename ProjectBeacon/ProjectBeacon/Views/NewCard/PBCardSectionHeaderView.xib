@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="PBCardSectionHeaderView">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="OKx-j1-4TJ">
+                    <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
+                    <color key="backgroundColor" red="0.96862745100000003" green="0.97254901959999995" blue="0.95686274510000002" alpha="1" colorSpace="calibratedRGB"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BOI-zS-uFM">
+                    <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="41j-hC-kJe">
+                    <rect key="frame" x="-23" y="-15" width="46" height="30"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="25" id="T65-Hl-GBB"/>
+                        <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="25" id="Zs0-Jw-Fcf"/>
+                        <constraint firstAttribute="width" constant="25" id="wJf-wk-rnx"/>
+                    </constraints>
+                    <state key="normal" image="plus_icon"/>
+                    <variation key="default">
+                        <mask key="constraints">
+                            <exclude reference="T65-Hl-GBB"/>
+                            <exclude reference="Zs0-Jw-Fcf"/>
+                            <exclude reference="wJf-wk-rnx"/>
+                        </mask>
+                    </variation>
+                    <variation key="heightClass=regular-widthClass=compact">
+                        <mask key="constraints">
+                            <include reference="T65-Hl-GBB"/>
+                            <include reference="Zs0-Jw-Fcf"/>
+                            <include reference="wJf-wk-rnx"/>
+                        </mask>
+                    </variation>
+                </button>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="41j-hC-kJe" secondAttribute="trailing" constant="13" id="281-aC-Txv"/>
+                <constraint firstItem="41j-hC-kJe" firstAttribute="leading" secondItem="BOI-zS-uFM" secondAttribute="trailing" constant="5" id="85e-8W-DCm"/>
+                <constraint firstItem="OKx-j1-4TJ" firstAttribute="centerY" secondItem="41j-hC-kJe" secondAttribute="centerY" id="QBP-gf-MUc"/>
+                <constraint firstItem="BOI-zS-uFM" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="SUN-II-XRm"/>
+                <constraint firstAttribute="trailing" secondItem="OKx-j1-4TJ" secondAttribute="trailing" id="b2k-mM-5uW"/>
+                <constraint firstItem="BOI-zS-uFM" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="23" id="cP9-pC-izh"/>
+                <constraint firstItem="OKx-j1-4TJ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="ftw-Ov-OAj"/>
+                <constraint firstItem="OKx-j1-4TJ" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="gGS-yz-uoi"/>
+                <constraint firstItem="41j-hC-kJe" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="yR3-B4-rzW"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="subviews">
+                    <exclude reference="OKx-j1-4TJ"/>
+                    <exclude reference="BOI-zS-uFM"/>
+                    <exclude reference="41j-hC-kJe"/>
+                </mask>
+                <mask key="constraints">
+                    <exclude reference="281-aC-Txv"/>
+                    <exclude reference="85e-8W-DCm"/>
+                    <exclude reference="yR3-B4-rzW"/>
+                    <exclude reference="SUN-II-XRm"/>
+                    <exclude reference="cP9-pC-izh"/>
+                    <exclude reference="QBP-gf-MUc"/>
+                    <exclude reference="b2k-mM-5uW"/>
+                    <exclude reference="ftw-Ov-OAj"/>
+                    <exclude reference="gGS-yz-uoi"/>
+                </mask>
+            </variation>
+            <variation key="heightClass=regular-widthClass=compact">
+                <mask key="subviews">
+                    <include reference="OKx-j1-4TJ"/>
+                    <include reference="BOI-zS-uFM"/>
+                    <include reference="41j-hC-kJe"/>
+                </mask>
+                <mask key="constraints">
+                    <include reference="281-aC-Txv"/>
+                    <include reference="85e-8W-DCm"/>
+                    <include reference="yR3-B4-rzW"/>
+                    <include reference="SUN-II-XRm"/>
+                    <include reference="cP9-pC-izh"/>
+                    <include reference="QBP-gf-MUc"/>
+                    <include reference="b2k-mM-5uW"/>
+                    <include reference="ftw-Ov-OAj"/>
+                    <include reference="gGS-yz-uoi"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="addButton" destination="41j-hC-kJe" id="7iR-fD-RrU"/>
+                <outlet property="headerTitle" destination="BOI-zS-uFM" id="cWn-bi-svA"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="plus_icon" width="25" height="25"/>
+    </resources>
+</document>
